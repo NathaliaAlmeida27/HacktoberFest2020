@@ -1,7 +1,7 @@
-print('Hello HacktoberFest') #Python
+print('Hello HacktoberFest 2020') #Python
 
 
 //Kotlin
 fun main(){
-	println()
+	println("Hello HacktoberFest 2020")
 }
