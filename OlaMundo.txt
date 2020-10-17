@@ -1,1 +1,7 @@
-print('Hello HacktoberFest') //Python
+print('Hello HacktoberFest') #Python
+
+
+//Kotlin
+fun main(){
+
+}
